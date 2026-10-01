@@ -5,3 +5,4 @@ joblib
 requests
 scikit-learn==1.9.0
 pydantic
+# Available at your primary URL https://flight-price-api-ua7c.onrender.com
